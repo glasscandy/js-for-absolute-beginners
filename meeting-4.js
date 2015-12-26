@@ -3,9 +3,9 @@ for (var n = 1; n <= 10; n = n + 1) {
   for (var mult = 1; mult <= 10; mult = mult + 1) {
     line = line + (mult * n) + " "
   }
-  console.log("<"+line+">")
 }
-
+console.log("<"+line+">")
+fun2
 // funkcje
 
 // napisz funkcję, która dodaje do siebie 3 liczby i zwraca tą sumę
