@@ -12,6 +12,8 @@ i tu jakaś zmiana
 
 2e3 - 2e2
 
+dodam coś jeszcze
+
 // + - * / %
 
 
