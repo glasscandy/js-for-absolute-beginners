@@ -14,6 +14,8 @@ Output:
 
 Przykładowe wywołanie funkcji:
 
+
+lqiuerghvliuaeaef
 displayElementsFor([]);
 
 Output - brak
