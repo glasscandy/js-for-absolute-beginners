@@ -5,7 +5,7 @@ for (var n = 1; n <= 10; n = n + 1) {
   }
 }
 console.log("<"+line+">")
-fun2
+kkkkkk
 // funkcje
 
 // napisz funkcję, która dodaje do siebie 3 liczby i zwraca tą sumę
