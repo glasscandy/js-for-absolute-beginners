@@ -6,7 +6,7 @@ Przykładowe wywołanie funkcji (obie wersje mają zwracać taki samo output):
 displayElementsFor([1, false, "foobar", undefined]);
 
 Output:
-
+Mój ulubiony kolor to czarny.
 0: 1
 1: false
 2: "foobar"
