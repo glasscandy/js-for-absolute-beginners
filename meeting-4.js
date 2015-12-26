@@ -1,3 +1,5 @@
+to jakaś zmiana
+
 for (var n = 1; n <= 10; n = n + 1) {
   var line = ""
   for (var mult = 1; mult <= 10; mult = mult + 1) {

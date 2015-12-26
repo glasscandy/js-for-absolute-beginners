@@ -1,3 +1,5 @@
+i tu jakaś zmiana
+
 13
 
 45
@@ -9,6 +11,8 @@
 2e3
 
 2e3 - 2e2
+
+dodam coś jeszcze
 
 // + - * / %
 
