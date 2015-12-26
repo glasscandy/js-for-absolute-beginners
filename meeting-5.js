@@ -8,6 +8,8 @@ var delta = function(a, b, c) {
   return 0;
 }
 
+hadzia
+
 // 2. Napisać funkcję wypisująca miejsca zerowe funkcji kwadratowej
 
 var miejsaZerowe = function(a, b, c) {
